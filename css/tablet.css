@@ -1,0 +1,38 @@
+header {
+    height: 440px;
+}
+header img {
+    width: 174px;
+    height: 28px;
+    margin-top: 80px;
+}
+.header__title-container {
+    height: 292px;
+    margin-top: 60px;
+}
+.header__title-container h1, .main__text-container h2, .product-detail__title h2, .main__bitcoin-img h2, .plans__title h2, .questions__title {
+    font-size: 4rem;
+    line-height: 4.2rem;
+}
+.header__title-container p {
+    margin-top: 60px;
+    font-size: 2rem;
+    line-height: 2.4rem;
+}
+.header__title-container p, .header__title-container .header__button, .main__text-container p, .product-detail__title p, .plans__title p  {
+    font-size: 2rem;
+    line-height: 2.4rem;
+}
+.header__title-container .header__button {
+    top: 385px;
+}
+.plans__slider {
+    justify-content: center;
+}
+.slider__plan-card {
+    margin: 0 8px;
+}
+.header__title-container .header__button {
+    left: calc(50% - 150px);
+    width: 300px;
+}

@@ -1,0 +1,6 @@
+.header__title-container p {
+    margin-top: 40px;
+}
+.question-list__item p {
+    color: var(--warm-black);
+}
